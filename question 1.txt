@@ -1,0 +1,12 @@
+Question 1 answer:
+If I should start a software company
+In the SCRUM agile framework, there are three roles: 
+The Product Owner, 
+The Scrum Master, and
+The Development Team. 
+
+The Product Owner is responsible for ensuring that the team is working on the right things and that the product backlog is prioritized. They are also responsible for ensuring that the product backlog is visible, transparent, and clear to everyone involved in the project.
+
+The Scrum Master is responsible for ensuring that the team is following the Scrum framework and that they are working effectively together. They help remove any obstacles that may be preventing the team from achieving their goals.
+
+The Development Team is responsible for delivering a potentially releasable increment of product at the end of each sprint. They are self-organizing and cross-functional, meaning that they have all of the skills necessary to deliver a product increment.

@@ -1,0 +1,5 @@
+Question 2
+what is a sprint?
+In the SCRUM agile framework, a sprint is a short, time-boxed period when a Scrum team works to complete a set amount of work. Sprints are typically one to four weeks long. 
+During a sprint, the team works on a specific set of objectives, benchmarks, or outputs. The goal of each sprint is to produce a potentially releasable increment of product. 
+
